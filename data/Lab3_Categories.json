@@ -1,0 +1,62 @@
+{
+    "categories": {
+        "hhsex": {
+            "0": "male",
+            "1": "female"
+        },
+        "married": {
+            "1": "married/living with partner",
+            "2": "neither married nor living with partner"
+        },
+        "famstruct": {
+            "1": "not married/LWP + children",
+            "2": "not married/LWP + no children + reference person under 55",
+            "3": "not married/LWP + no children + reference person 55 or older",
+            "4": "married/LWP+ children",
+            "5": "married/LWP + no children"
+        },
+        "race": {
+            "1": "white non-Hispanic",
+            "2": "black/African-American",
+            "3": "Hispanic",
+            "4": "Asian (only available in internal data set, see codebook)",
+            "5": "other"
+        },
+        "knowl": {
+            "-1": "Not at all knowledgeable",
+            "10": "vary knowledgeable"
+        },
+        "lf": {
+            "0": "not working",
+            "1": "working in some way"
+        },
+        "OCCAT1": {
+            "1": "employed",
+            "2": "self-employed",
+            "3": "retired/disabled/student",
+            "4": "not working"
+        },
+        "OCCAT2": {
+            "1": "managerial/professional",
+            "2": "technical/sales/services",
+            "3": "other (production workers, laborers, farmers)",
+            "4": "not working"
+        }
+    },
+    "incomes": [
+        "income",
+        "wageinc",
+        "bussefarminc",
+        "intdivinc",
+        "kginc",
+        "ssretinc",
+        "transfothinc",
+        "norminc",
+        "wealth"
+    ],
+    "numeric": [
+        "age",
+        "educ",
+        "kids"
+    ]
+}
